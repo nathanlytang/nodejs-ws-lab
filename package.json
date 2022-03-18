@@ -28,6 +28,5 @@
     "ws": "^7.4.4"
   },
   "devDependencies": {
-    "phaser3-docs": "git+https://github.com/uofa-cmput404/phaser3-docs.git"
   }
 }
